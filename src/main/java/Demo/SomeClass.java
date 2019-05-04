@@ -5,4 +5,5 @@ package Demo;
  */
 public class SomeClass {
     public int someField;
+    public String someStringField;
 }
