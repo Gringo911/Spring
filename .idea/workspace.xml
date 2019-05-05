@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="871fb126-b45f-4d74-bbbc-ff94618a353c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Demo/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Demo/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -748,15 +747,23 @@
       <option name="presentableId" value="Default" />
       <updated>1557003505234</updated>
       <workItem from="1557003514357" duration="2678000" />
-      <workItem from="1557080934237" duration="3261000" />
+      <workItem from="1557080934237" duration="3343000" />
     </task>
+    <task id="LOCAL-00001" summary="three">
+      <created>1557086275479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557086275479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5939000" />
+    <option name="totallyTimeSpent" value="6021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1292" height="994" extended-state="0" />
+    <frame x="-9" y="0" width="1292" height="994" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -795,6 +802,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="three" />
+    <option name="LAST_COMMIT_MESSAGE" value="three" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
